@@ -3,5 +3,5 @@
 ])
 
 @section('navbar')
-    aaaa
+    Admin
 @endsection
